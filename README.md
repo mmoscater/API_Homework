@@ -23,7 +23,7 @@
 ![](Notebook/LatVsWind.png)
 
 <h3>Conclusion</h3>
-<p>In closing, I feel that the main hypothesis of temperature being higher, the closer a city is located to the equator was proven in the datasets. However, it seems that humidity, wind speed, and cloudiness are unrelated to the lattitude position.  An intersting find, that could be explored in the future, is the similarities to windspeed and colder temperatures. A copy of the scatter charts have been provided below to highlight this find.</p>
+<p>In closing, I feel that the main hypothesis of temperature being higher, the closer a city is located to the equator was proven in the datasets. However, it seems that humidity, wind speed, and cloudiness are unrelated to the lattitude position.  An interesting find, that could be explored in the future, is the similarities to windspeed and colder temperatures. A copy of the scatter charts have been provided below to highlight this find.</p>
 
 ![](Notebook/LatVsWind.png)
 ![](Notebook/LatVsTemp.png) 
