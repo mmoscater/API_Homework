@@ -2,7 +2,7 @@
 
 <h1> Data Analysis of Random Sampling of Cities in relation to their distance from the equator</h1>
 
-<h3> Expecated results:</h3>
+<h3> Expected results</h3>
 <p>As most would expect due to their education of geography, we believe that most cities will tend to be more tropical (hotter and more humid) as they distance is reduced from the equater. This analysis is being complete late October, and should provide some large variations between cities and their relation to the equator, due to the season.</p>
 
 <h3>Temperature</h3>
